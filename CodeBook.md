@@ -40,6 +40,7 @@ Full description on the data is at http://archive.ics.uci.edu/ml/datasets/Human+
 Prerequisite: Download the raw data and unzip to your working directory
 
 Steps in run_analysis.R:
+
 1. Load all the raw training and test datasets
 2. Read features and activity_labels file
 3. Merge training and test datasets respectively
