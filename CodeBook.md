@@ -50,3 +50,6 @@ Steps in run_analysis.R:
 7. Convert "Activity" and "Subject" column into factor variables
 8. Create a tidy dataset with average of each variable for each activity and each subject
 9. Write the tidy dataset into file named "Tidy.txt"
+
+Sample outcome:
+https://s3.amazonaws.com/coursera-uploads/user-35c430b27f0d57d62839a2e0/975115/asst-3/c1d9652049e011e59dfc799603c24fd1.txt
